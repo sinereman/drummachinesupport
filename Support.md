@@ -11,7 +11,7 @@ Welcome to the official support page for **Rhythm Machine Console**.
 If you encounter any issues, have suggestions, or need technical assistance, please reach out via the following channels:
 
 
-* **Email Support:** [support@urbanistanbul.com](mailto:batikankursa@outlook.com)
+* **Email Support:** [batikankursa@outlook.com](mailto:batikankursa@outlook.com)
 
 ### Frequently Asked Questions (FAQ)
 * **How do I save my patterns?** Long-press any of the Bank slots (A, B, C, D) to save your current sequence.
@@ -28,7 +28,7 @@ Rhythm Machine Console does not collect any user data. All patterns and settings
 Herhangi bir sorunla karşılaşırsanız, öneriniz varsa veya teknik desteğe ihtiyaç duyuyorsanız aşağıdaki kanallar üzerinden bize ulaşabilirsiniz:
 
 
-* **E-posta Desteği:** [support@urbanistanbul.com](mailto:batikankursa@outlook.com)
+* **E-posta Desteği:** [batikankursa@outlook.com](mailto:batikankursa@outlook.com)
 
 ### Sıkça Sorulan Sorular (SSS)
 * **Ritimlerimi nasıl kaydederim?** Mevcut diziliminizi kaydetmek için Bank slotlarından (A, B, C, D) herhangi birine uzun basın.
